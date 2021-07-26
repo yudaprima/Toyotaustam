@@ -1,8 +1,8 @@
 <template>
   <div class="bg-white">
     <Hero />
-    <ProductServices />
     <TwoCard />
+    <ProductServices />
     <!-- <TwoCardRight /> -->
     <Banner />
     <Testimonial />
