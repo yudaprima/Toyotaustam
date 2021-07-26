@@ -11,9 +11,12 @@
     "Displacement": "1,496",
     "MaxPower": "107 / 6,000",
     "MaxTorque": "14.3 / 4,200",
-    "price": "Rp 150.200.000",
+    "price": "1.2G MT : 154.500.000",
     "image": "/agya.webp",
-    "sale": ""
+    "sale": "",
+    "price2": "1.2G AT : 168.300.000",
+    "price3": "1.2G TRD MT : 159.500.000",
+    "price4": "1.2G TRD AT :  175.600.000"
   },
   {
     "title": "NEW YARIS",
@@ -28,8 +31,15 @@
     "Displacement": "1,496",
     "MaxPower": "107 / 6,000",
     "MaxTorque": "14.3 / 4,200",
-    "price": "Rp. 275.700.000",
+    "price": "1.5G MT 3 airbag : 256.800.000",
     "image": "/newyaris.webp",
-    "sale": ""
+    "sale": "",
+    "price2": "1.5G AT 3 airbag : 267.300.000",
+    "price3": "1.5G MT 7 airbag : 261.400.000",
+    "price4": "1.5G AT 7 airbag : 271.900.000",
+    "price5": "1.5 TRD MT 3 airbag : 279.300.000",
+    "price6": "1.5 TRD AT 3 airbag : 290.600.000",
+    "price7": "1.5 TRD MT 7 airbag : 283.900.000",
+    "price8": "1.5 TRD AT 7 airbag : 295.100.000"
   }
 ]

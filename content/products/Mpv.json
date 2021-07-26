@@ -62,9 +62,12 @@
     "Displacement": "1,496",
     "MaxPower": "107 / 6,000",
     "MaxTorque": "14.3 / 4,200",
-    "price": "Rp. 151.400.000",
+    "price": "1.2E MT (Std) : 151.400.000",
     "image": "/NEWCALYA.webp",
-    "sale": ""
+    "sale": "",
+    "price2": "1.2E MT : 154.700.000",
+    "price3": "1.2G MT : 160.500.000",
+    "price4": "1.2G AT : 172.900.000"
   },
   {
     "title": "NEW AVANZA",
@@ -79,9 +82,14 @@
     "Displacement": "1,496",
     "MaxPower": "107 / 6,000",
     "MaxTorque": "14.3 / 4,200",
-    "price": "Rp. 192.200.000",
+    "price": "1.3E MT non ABS : 192.200.000",
     "image": "/NEWAVANZA.webp",
-    "sale": ""
+    "sale": "",
+    "price2": "1.3E AT non ABS : 202.200.000",
+    "price3": "1.3E MT ABS : 193.300.000",
+    "price4": "1.3E AT ABS : 203.500.000",
+    "price5": "1.3G MT : 211.100.000",
+    "price6": "1.3G AT : 221.000.000"
   },
   {
     "title": "NEW SIENTA",
@@ -96,9 +104,12 @@
     "Displacement": "1,496",
     "MaxPower": "107 / 6,000",
     "MaxTorque": "14.3 / 4,200",
-    "price": "Rp. 267.900.000",
+    "price": "1.5V MT : 267.900.000",
     "image": "/NEWSIENTA.webp",
-    "sale": ""
+    "sale": "",
+    "price2": "1.5V CVT : 284.700.000",
+    "price3": "1.5V CVT Welcab : 353.000.000",
+    "price4": "1.5Q CVT : 302.500.000"
   },
   {
     "title": "VELOZ",
@@ -113,9 +124,12 @@
     "Displacement": "1,496",
     "MaxPower": "107 / 6,000",
     "MaxTorque": "14.3 / 4,200",
-    "price": "Rp. 217.400.000",
+    "price": "Veloz 1.3 MT : 217.400.000",
     "image": "/VELOZ.webp",
-    "sale": ""
+    "sale": "",
+    "price2": "Veloz 1.3 AT : 227.500.000",
+    "price3": "Veloz 1.5 MT : 229.200.000",
+    "price4": "Veloz 1.5 AT : 239.500.000"
   },
   {
     "title": "ALL NEW VOXY",
@@ -130,7 +144,7 @@
     "Displacement": "1,496",
     "MaxPower": "107 / 6,000",
     "MaxTorque": "14.3 / 4,200",
-    "price": "Rp. 522.100.000",
+    "price": "Voxy 2.0 AT : 522.100.000",
     "image": "/ALLNEWVOXY.webp",
     "sale": ""
   }

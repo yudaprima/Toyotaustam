@@ -31,12 +31,12 @@
     "Displacement": "Rp. 1.256.300.000",
     "MaxPower": "107 / 6,000",
     "MaxTorque": "14.3 / 4,200",
-    "price": "Rp. 250.300.000",
+    "price": "1.5 G MT : 250.300.000",
     "image": "/ALLNEWRUSH.webp",
     "sale": "",
-    "price2": "Rp. 538.050.000",
-    "price3": "Rp. 538.050.000",
-    "price4": "Rp. 538.050.000"
+    "price2": "1.5 G AT : 259.600.000",
+    "price3": "1.5 S MT TRD : 259.900.000",
+    "price4": "1.5 S AT TRD : 269.300.000"
   },
   {
     "title": "COROLLA CROSS",
@@ -71,12 +71,12 @@
     "Displacement": "1,496",
     "MaxPower": "107 / 6,000",
     "MaxTorque": "14.3 / 4,200",
-    "price": "Rp. 530.200.000",
+    "price": "1.8 AT (SC) : 530.200.000",
     "image": "/ALLNEWC-HR.webp",
     "sale": "",
-    "price2": "Rp. 538.050.000",
-    "price3": "Rp. 538.050.000",
-    "price4": "Rp. 538.050.000"
+    "price2": "1.8 AT (TC) : 531.700.000",
+    "price3": "1.8 HV (SC) : 573.700.000",
+    "price4": "1.8 HV (TC) : 575.200.000"
   },
   {
     "title": "LAND CRUISER",
@@ -111,11 +111,17 @@
     "Displacement": "1,496",
     "MaxPower": "107 / 6,000",
     "MaxTorque": "14.3 / 4,200",
-    "price": "Rp. 220.900.000",
+    "price": "1.2 G MT : 203.700.000",
     "image": "/AllNewRaize.webp",
     "sale": "",
-    "price2": "Rp. 538.050.000",
-    "price3": "Rp. 538.050.000",
-    "price4": "Rp. 538.050.000"
+    "price2": "1.2 G AT : 216.800.000",
+    "price3": "1.0T G MT (OTC) : 220.900.000",
+    "price4": "1.0T G MT (TTC) : 223.200.000",
+    "price5": "1.0T G CVT (OTC) : 234.000.000",
+    "price6": "1.0T G CVT (TTC) : 236.300.000",
+    "price7": "1.0T GR CVT (OTC) : 245.500.000",
+    "price8": "1.0T GR CVT (TTC) : 247.800.000",
+    "price9": "1.0T GR TSS CVT (OTC) : 264.500.000",
+    "price10": "1.0T GR TSS CVT (TTC) : 266.700.000"
   }
 ]

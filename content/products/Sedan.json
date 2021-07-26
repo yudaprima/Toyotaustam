@@ -11,9 +11,11 @@
     "Displacement": "1,496",
     "MaxPower": "107 / 6,000",
     "MaxTorque": "14.3 / 4,200",
-    "price": "Rp. 656.700.000",
+    "price": "2.5G AT : 656.700.000",
     "image": "/NEWCAMRY.webp",
-    "sale": ""
+    "sale": "",
+    "price2": "2.5V AT : 690.200.000",
+    "price3": "2.5HV AT : 895.500.000"
   },
   {
     "title": "COROLLA ALTIS",
@@ -28,9 +30,29 @@
     "Displacement": "1,496",
     "MaxPower": "107 / 6,000",
     "MaxTorque": "14.3 / 4,200",
-    "price": "Rp. 506.350.000",
+    "price": "1.8G AT : 506.350.000",
     "image": "/COROLLAALTIS.webp",
-    "sale": ""
+    "sale": "",
+    "price2": "1.8V AT : 528.850.000",
+    "price3": "1.8L Hybrid : 606.150.000"
+  },
+  {
+    "title": "COROLLA CROSS",
+    "Dimensi": "4,145 X 1,730 X 1,500 X 2,500",
+    "Transmission": "5-Speed Manual    ",
+    "BrakeSystem": "ABS + EBD + BA    ",
+    "FrontBrake": "14 Ventilated Disc",
+    "RearBrake": "Drum",
+    "FrontSuspension": "Macpherson Strut",
+    "EngineType": "In-line 4 Cyl, 16 Valve, DOHC, Dual VVT-i    ",
+    "BorexStroke": "72.5 x 90.6 ",
+    "Displacement": "1,496",
+    "MaxPower": "107 / 6,000",
+    "MaxTorque": "14.3 / 4,200",
+    "price": "1.8 AT : 470.300.000",
+    "image": "/COROLLAALTIS.webp",
+    "sale": "",
+    "price2": "1.8 Hybrid AT : 528.200.000"
   },
   {
     "title": "NEW VIOS",
@@ -45,8 +67,10 @@
     "Displacement": "1,496",
     "MaxPower": "107 / 6,000",
     "MaxTorque": "14.3 / 4,200",
-    "price": "Rp. 263.100.000",
+    "price": "1.5E MT : 263.100.000",
     "image": "/NEWVIOS.webp",
-    "sale": ""
+    "sale": "",
+    "price2": "1.5G MT : 279.600.000",
+    "price3": "1.5G AT  : 292.500.000"
   }
 ]

@@ -66,6 +66,26 @@
                   >
                     <span class="italic font-light">{{ product.price6 }}</span>
                   </p>
+                  <p
+                    class="pt-3 justify-between text-red mb-4 flex flex-wrap hidden group-focus:flex"
+                  >
+                    <span class="italic font-light">{{ product.price7 }}</span>
+                  </p>
+                  <p
+                    class="pt-3 justify-between text-red mb-4 flex flex-wrap hidden group-focus:flex"
+                  >
+                    <span class="italic font-light">{{ product.price8 }}</span>
+                  </p>
+                  <p
+                    class="pt-3 justify-between text-red mb-4 flex flex-wrap hidden group-focus:flex"
+                  >
+                    <span class="italic font-light">{{ product.price9 }}</span>
+                  </p>
+                  <p
+                    class="pt-3 justify-between text-red mb-4 flex flex-wrap hidden group-focus:flex"
+                  >
+                    <span class="italic font-light">{{ product.price10 }}</span>
+                  </p>
                 </button>
               </div>
               <div class="p-2 bg-gray-900 text-white rounded-lg  lg:w-2/5">
