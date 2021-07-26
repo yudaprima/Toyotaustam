@@ -37,6 +37,16 @@
           <input type="checkbox" class="faux-ui-facia" />
           <div
             class="slide"
+            slide="4"
+            annot="NEW CALYA
+ harga mulai dari Rp. 151.400.000
+."
+          >
+            <img src="/Calya.webp" alt="Slide 3" />
+          </div>
+          <input type="checkbox" class="faux-ui-facia" />
+          <div
+            class="slide"
             slide="3"
             annot="NEW KIJANG INNOVA
  harga mulai dari Rp. 345.800.000
@@ -63,7 +73,7 @@
             <img src="/newalphard.webp" alt="Slide 1" />
           </div>
 
-          <div class="counter" count="3">/ 3</div>
+          <div class="counter" count="5">/ 4</div>
         </div>
       </div>
       <div class="rounded-lg ">
