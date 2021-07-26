@@ -18,8 +18,12 @@
               </a>
             </li>
             <li class="mt-0 text-gray-200">
-              Alamat : Jl.lingkarselatan 1 RT.06 Lr.N29 (depan kantor
-              energasindo)
+              PT Nasmoco Janti
+              <br />
+              Authorized Toyota Dealer<br />
+              Alamat : Jl Ring Road Timur 58A Banguntapan Bantul, Yogyakarta
+              55198<br />
+              Fax. : 0274-452-040
             </li>
           </ul>
         </div>

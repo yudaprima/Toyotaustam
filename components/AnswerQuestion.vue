@@ -72,6 +72,7 @@
             </p>
             <p class="text-sm pt-2 text-lg">
               Phone 628122687656 <br />Instagram | oestamdwi_salestoyotajogja
+              <br />Email | oestamdwikaryadi@gmail.com
             </p>
             <a
               href="https://api.whatsapp.com/send?phone=+*628122687656*&text=%20*Saya ingin menanyakan tentang mobil..."
