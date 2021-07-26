@@ -71,10 +71,10 @@
               Please don't hesitate to contact us for another task
             </p>
             <p class="text-sm pt-2 text-lg">
-              Phone 082269091986 <br />Email | hendiantony0309@gmail.com
+              Phone 628122687656 <br />Email | hendiantony0309@gmail.com
             </p>
             <a
-              href="https://api.whatsapp.com/send?phone=+*6282269091986*&text=%20*Saya cukup tertarik dengan mobil..."
+              href="https://api.whatsapp.com/send?phone=+*628122687656*&text=%20*Saya ingin menanyakan tentang mobil..."
               target="_blank"
               rel="noopener noreferrer"
             >

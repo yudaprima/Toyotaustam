@@ -14,7 +14,7 @@
         </p>
 
         <a
-          href="https://api.whatsapp.com/send?phone=+*6282269091986*&text=%20*Saya cukup tertarik dengan mobil..."
+          href="https://api.whatsapp.com/send?phone=+*628122687656*&text=%20*Saya ingin menanyakan tentang mobil..."
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -27,7 +27,7 @@
       </div>
       <div class="w-full lg:w-1/2 lg:py-6 text-center">
         <img
-          src="/innova-reborn.webp"
+          src="/AllNewRaize.webp"
           height="512"
           width="640"
           alt="student"
