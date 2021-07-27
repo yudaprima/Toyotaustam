@@ -1,6 +1,6 @@
 [
   {
-    "title": "ALL NEW HIACE PREMIO",
+    "title": "ALL NEW HIACE",
     "Dimensi": "4,145 X 1,730 X 1,500 X 2,500",
     "Transmission": "5-Speed Manual    ",
     "BrakeSystem": "ABS + EBD + BA    ",
@@ -63,8 +63,13 @@
     "Displacement": "1,496",
     "MaxPower": "107 / 6,000",
     "MaxTorque": "14.3 / 4,200",
-    "price": "Rp. 258.400.000",
+    "price": "S-Cab 2.0 MT : 258.400.000 Bensin",
     "image": "/ALLNEWHILUX.webp",
-    "sale": ""
+    "sale": "",
+    "price2": "S-Cab 2.4 MT 4x2 : 274.300.000 Diesel",
+    "price3": "S-Cab 2.4 MT 4x4 : 365.000.000 Diesel ",
+    "price4": "D-Cab 2.4E MT : 454.400.000 Diesel",
+    "price5": "D-Cab 2.4G MT : 475.300.000 Diesel",
+    "price6": "D-Cab 2.4V AT : 514.600.000 Diesel"
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "title": "NEW KIJANG INNOVA",
+    "title": "NEW KIJANG INNOVA Bensin",
     "Dimensi": "4,145 X 1,730 X 1,500 X 2,500",
     "Transmission": "5-Speed Manual    ",
     "BrakeSystem": "ABS + EBD + BA    ",
@@ -10,10 +10,40 @@
     "BorexStroke": "72.5 x 90.6 ",
     "Displacement": "1,496",
     "MaxPower": "107 / 6,000",
-    "MaxTorque": "Rp. 324.500.000",
-    "price": "Rp. 538.050.000",
+    "MaxTorque": "",
+    "price": "2.0G MT : 324.500.000",
     "image": "/newinnova.webp",
-    "sale": ""
+    "sale": "",
+    "price2": "2.0G AT : 343.100.000",
+    "price3": "2.0G MT Lux : 330.300.000",
+    "price4": "2.0G AT Lux : 348.900.000",
+    "price5": "2.0V MT : 372.500.000",
+    "price6": "2.0V AT : 391.200.000",
+    "price7": "2.0V MT Lux : 378.300.000",
+    "price8": "2.0V AT Lux : 397.000.000",
+    "price9": "2.0 Venturer MT : 424.000.000",
+    "price10": "2.0 Venturer AT : 441.900.000 "
+  },
+  {
+    "title": "NEW KIJANG INNOVA Diesel",
+    "Dimensi": "4,145 X 1,730 X 1,500 X 2,500",
+    "Transmission": "5-Speed Manual    ",
+    "BrakeSystem": "ABS + EBD + BA    ",
+    "FrontBrake": "14 Ventilated Disc",
+    "RearBrake": "Drum",
+    "EngineType": "In-line 4 Cyl, 16 Valve, DOHC, Dual VVT-i    ",
+    "BorexStroke": "72.5 x 90.6 ",
+    "Displacement": "1,496",
+    "MaxPower": "107 / 6,000",
+    "MaxTorque": "",
+    "price": "2.4G MT : 360.200.000",
+    "image": "/newinnova.webp",
+    "sale": "",
+    "price2": "2.4G AT : 378.400.000",
+    "price3": "2.4V MT : 404.800.000",
+    "price4": "2.4V AT : 423.100.000",
+    "price5": "2.4 Venturer MT : 460.200.000",
+    "price6": "2.4 Venturer AT : 478.300.000"
   },
   {
     "title": "NEW VELLFIRE",
@@ -45,9 +75,12 @@
     "Displacement": "1,496",
     "MaxPower": "107 / 6,000",
     "MaxTorque": "14.3 / 4,200",
-    "price": "Rp. 1.070.900.000",
+    "price": "2.5X AT : 1.070.900.000",
     "image": "/newalphard.webp",
-    "sale": ""
+    "sale": "",
+    "price2": "2.5 G AT : 1.230.300.000",
+    "price3": "3.5VIP AT : 2.012.700.000",
+    "price4": "Vellfire 2.5G AT : 1.256.300.000"
   },
   {
     "title": "NEW CALYA",

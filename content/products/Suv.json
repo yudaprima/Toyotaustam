@@ -11,12 +11,15 @@
     "Displacement": "1,496",
     "MaxPower": "107 / 6,000",
     "MaxTorque": "Rp. 493.900.000",
-    "price": "2.4 G M/T 4 x 2 Diesel Rp. 538.050.000",
+    "price": "2.4G 4x2 MT : 493.900.000",
     "image": "/FORTUNER.webp",
     "sale": "",
-    "price2": "2.4 G A/T 4 x 2 Diesel Rp. 838.050.000",
-    "price3": "2.4 G A/T 4 x 2 Bensin Rp. 838.050.000",
-    "price4": "2.4 G M/T 4 x 2 Bensin Rp. 878.050.000"
+    "price2": "2.4G 4x2 AT : 511.300.000",
+    "price3": "2.4 VRZ 4x2 AT : 540.800.000",
+    "price4": "2.4 TRD 4x2 AT : 555.100.000",
+    "price5": "2.4G 4x4 AT : 616.100.000",
+    "price6": "2.4 VRZ 4x4 AT : 691.500.000",
+    "price7": "2.7 SRZ 4x2 TRD AT : 614.800.000 Bensin"
   },
   {
     "title": "ALL NEW RUSH",
