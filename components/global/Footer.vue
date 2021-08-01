@@ -18,12 +18,13 @@
               </a>
             </li>
             <li class="mt-0 text-gray-200">
-              PT Nasmoco Janti
+              PT YYY
               <br />
               Authorized Toyota Dealer<br />
-              Alamat : Jl Ring Road Timur 58A Banguntapan Bantul, Yogyakarta
-              55198<br />
-              Fax. : 0274-452-040
+              <!-- Alamat : Jl Ring Road Timur 58A Banguntapan Bantul, Yogyakarta
+              55198<br /> -->
+              Jalan kaliurang Sleman Yogyakarta Km 14 <br />
+              <!-- Fax. : 0274-452-040 -->
             </li>
           </ul>
         </div>

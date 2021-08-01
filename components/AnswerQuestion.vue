@@ -22,8 +22,7 @@
           class="w-full border-b-2 border-gray-400 pb-6 text-left group mt-6 focus:outline-none"
         >
           <div class="text-lg font-semibold">
-            Q: Apakah kami bisa menyewa untuk waktu yang lama, misalnya selama
-            kegiatan Bisnis ?
+            Q: Apakah beli mobil harus ke dealer ?
           </div>
           <div class="mt-3 hidden group-focus:flex">
             <p>
@@ -36,7 +35,7 @@
           class="w-full border-b-2 border-gray-400 pb-6 text-left group mt-6 focus:outline-none"
         >
           <div class="text-lg font-semibold">
-            Q: Apakah ada harga Khusus Untuk Penyewaan dalam waktu lama ?
+            Q: Apakah bisa tukar tambah ?
           </div>
           <div class="mt-3 hidden group-focus:flex">
             <p>
@@ -49,8 +48,21 @@
           class="w-full border-b-2 border-gray-400 pb-6 text-left group mt-6 focus:outline-none"
         >
           <div class="text-lg font-semibold">
-            Q: Apakah menggunakan Jamstack tidak bisa digunakan untuk transaksi
-            seperti ecommerce lain nya ?
+            Q: Apakah ada promo untuk pembelian toyota ?
+          </div>
+          <div class="mt-3 hidden group-focus:flex">
+            <p>
+              Sangat bisa, Kami bisa membantu untuk membuatkan aplikasi baik itu
+              native App atau Modern Web App lengkap dengan database serta
+              backend sesuai kebutuhan bisnis anda
+            </p>
+          </div>
+        </button>
+        <button
+          class="w-full border-b-2 border-gray-400 pb-6 text-left group mt-6 focus:outline-none"
+        >
+          <div class="text-lg font-semibold">
+            Q: Untuk pembelian kredit apakah mudah dan bisa dibantu?
           </div>
           <div class="mt-3 hidden group-focus:flex">
             <p>
@@ -70,9 +82,12 @@
             <p class="text-sm pt-2 text-lg">
               Please don't hesitate to contact us for another task
             </p>
-            <p class="text-sm pt-2 text-lg">
+            <!-- <p class="text-sm pt-2 text-lg">
               Phone 628122687656 <br />Instagram | oestamdwi_salestoyotajogja
               <br />Email | oestamdwikaryadi@gmail.com
+            </p> -->
+            <p class="text-sm pt-2 text-lg">
+              Phone 6281215969696 <br />Email | myroofel@protonmail.com
             </p>
             <a
               href="https://api.whatsapp.com/send?phone=+*628122687656*&text=%20*Saya ingin menanyakan tentang mobil..."

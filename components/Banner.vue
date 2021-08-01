@@ -26,7 +26,11 @@
             </a>
           </div>
           <div class="lg:w-2/5 py-5">
-            <img src="/sales.webp" alt="student" class="rounded-full h-auto " />
+            <img
+              src="/sallesman.webp"
+              alt="student"
+              class="rounded-full h-auto "
+            />
           </div>
         </div>
       </div>
