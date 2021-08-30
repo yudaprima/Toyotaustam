@@ -62,7 +62,13 @@
                 :to="{ name: 'index' }"
                 class="inline-flex items-center p-2 mr-4 "
               >
-                <nuxt-img src="/toyota-yogya.webp" alt="student" class="" />
+                <nuxt-img
+                  src="/toyota-yogya.webp"
+                  alt="student"
+                  class=""
+                  height="76"
+                  width="252"
+                />
               </nuxt-link>
             </li>
             <li class="mb-2 ">

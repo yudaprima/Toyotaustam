@@ -87,10 +87,10 @@
               <br />Email | oestamdwikaryadi@gmail.com
             </p> -->
             <p class="text-sm pt-2 text-lg">
-              Phone 6281215969696 <br />Email | myroofel@protonmail.com
+              Phone 6287739005888
             </p>
             <a
-              href="https://api.whatsapp.com/send?phone=+*628122687656*&text=%20*Saya ingin menanyakan tentang mobil..."
+              href="https://api.whatsapp.com/send?phone=+*6287739005888*&text=%20*Saya ingin menanyakan tentang mobil..."
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -103,7 +103,7 @@
           </div>
         </div>
         <a
-          href="https://goo.gl/maps/3KURx5vcDANY1XJy8"
+          href="https://goo.gl/maps/agdUvVcKF9T52LzT6"
           target="_blank"
           rel="noopener noreferrer"
         >
