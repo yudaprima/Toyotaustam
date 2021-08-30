@@ -26,7 +26,7 @@
         </a>
       </div>
       <div class="w-full lg:w-1/2 lg:py-6 text-center">
-        <img
+        <nuxt-img
           src="/AllNewRaize.webp"
           height="512"
           width="640"

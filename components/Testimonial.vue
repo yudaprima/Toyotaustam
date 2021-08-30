@@ -23,7 +23,7 @@
         </p>
         <div class="flex items-center mt-4">
           <a href="#" class="block relative">
-            <!-- <img
+            <!-- <nuxt-img
               alt="profil"
               src="/images/person/1.jpg"
               class="mx-auto object-cover rounded-full h-10 w-10 "
@@ -35,7 +35,7 @@
             </span>
             <span class="text-red dark:text-gray-400 text-xs flex items-center">
               Ceo Baju naya
-              <!-- <img src="/icons/rocket.svg" class="ml-2 h-4 w-4" /> -->
+              <!-- <nuxt-img src="/icons/rocket.svg" class="ml-2 h-4 w-4" /> -->
             </span>
           </div>
         </div>
@@ -55,7 +55,7 @@
         </p>
         <div class="flex items-center mt-4">
           <a href="#" class="block relative">
-            <!-- <img
+            <!-- <nuxt-img
               alt="profil"
               src="/images/person/1.jpg"
               class="mx-auto object-cover rounded-full h-10 w-10 "
@@ -67,7 +67,7 @@
             </span>
             <span class="text-red dark:text-gray-400 text-xs flex items-center">
               Web development
-              <!-- <img src="/icons/rocket.svg" class="ml-2 h-4 w-4" /> -->
+              <!-- <nuxt-img src="/icons/rocket.svg" class="ml-2 h-4 w-4" /> -->
             </span>
           </div>
         </div>
@@ -87,7 +87,7 @@
         </p>
         <div class="flex items-center mt-4">
           <a href="#" class="block relative">
-            <!-- <img
+            <!-- <nuxt-img
               alt="profil"
               src="/images/person/1.jpg"
               class="mx-auto object-cover rounded-full h-10 w-10 "
@@ -99,7 +99,7 @@
             </span>
             <span class="text-red dark:text-gray-400 text-xs flex items-center">
               Marketing
-              <!-- <img src="/icons/rocket.svg" class="ml-2 h-4 w-4" /> -->
+              <!-- <nuxt-img src="/icons/rocket.svg" class="ml-2 h-4 w-4" /> -->
             </span>
           </div>
         </div>

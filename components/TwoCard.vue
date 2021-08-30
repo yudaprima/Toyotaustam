@@ -12,7 +12,7 @@
     </p>
     <!-- <div class="flex justify-center leading-9 mb-9">
       <div class="">
-        <img
+        <nuxt-img
           src="/innova-reborn.webp"
           alt="jasa bikin website"
           width="640"

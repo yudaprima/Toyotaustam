@@ -61,7 +61,7 @@
           </button> -->
         </div>
         <!-- <div class="lg:w-1/3  hidden md:block">
-          <img src="/about.webp" alt="student" class="rounded-lg h-auto " />
+          <nuxt-img src="/about.webp" alt="student" class="rounded-lg h-auto " />
         </div> -->
       </div>
     </div>

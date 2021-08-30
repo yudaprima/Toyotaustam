@@ -12,7 +12,7 @@
     <div class="flex flex-wrap justify-between grid lg:grid-cols-2 ">
       <div class=" px-2 py-2 space-y-6 ">
         <div class="">
-          <img
+          <nuxt-img
             src="/innova-reborn.png"
             alt="jasa bikin website"
             width="640"

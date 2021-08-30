@@ -16,7 +16,7 @@
                 </p>
               </div>
             </div>
-            <div class="image"><img src="/batiku.webp" /></div>
+            <div class="image"><nuxt-img src="/batiku.webp" /></div>
           </div>
           <div class="slider rounded-lg">
             <div class="legend"></div>
@@ -30,7 +30,7 @@
                 </p>
               </div>
             </div>
-            <!-- <div class="image"><img src="/batiku.webp" /></div> -->
+            <!-- <div class="image"><nuxt-img src="/batiku.webp" /></div> -->
           </div>
           <div class="slider rounded-lg">
             <div class="legend"></div>
@@ -44,7 +44,7 @@
                 </p>
               </div>
             </div>
-            <div class="image"><img src="/batiku.webp" /></div>
+            <div class="image"><nuxt-img src="/batiku.webp" /></div>
           </div>
           <div class="slider rounded-lg">
             <div class="legend"></div>
@@ -58,7 +58,7 @@
                 </p>
               </div>
             </div>
-            <div class="image"><img src="/batiku.webp" /></div>
+            <div class="image"><nuxt-img src="/batiku.webp" /></div>
           </div>
         </div>
         <div class="switch">

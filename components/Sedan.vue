@@ -16,7 +16,7 @@
       </div>
       <div class="p-3 rounded-lg  ">
         <div class="">
-          <img
+          <nuxt-img
             src="/agya.webp"
             alt="jasa bikin website"
             width="640"
@@ -29,7 +29,7 @@
     <div class="flex flex-wrap justify-between grid lg:grid-cols-2 ">
       <div class="p-3 rounded-lg  ">
         <div class="">
-          <img
+          <nuxt-img
             src="/avanza.webp"
             alt="jasa bikin website"
             width="640"
@@ -70,7 +70,7 @@
       </div>
       <div class="p-3 rounded-lg  ">
         <div class="">
-          <img
+          <nuxt-img
             src="/Fortuner-VRZ.webp"
             alt="jasa bikin website"
             width="640"

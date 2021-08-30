@@ -15,7 +15,7 @@
                 <h1 class=" mb-5 text-red font-extrabold ">
                   {{ product.title }}
                 </h1>
-                <img
+                <nuxt-img
                   v-if="product.image"
                   class=" object-cover rounded-lg"
                   :src="product.image"

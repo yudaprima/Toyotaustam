@@ -13,7 +13,7 @@
             slide="2"
             annot="New Agya Harga mulai dari Rp. 150.200.000."
           >
-            <img src="/agya.webp" alt="Slide 2" />
+            <nuxt-img src="/agya.webp" alt="Slide 2" />
           </div>
 
           <input type="checkbox" class="faux-ui-facia" />
@@ -22,7 +22,7 @@
             slide="1"
             annot="New Yaris harga mulai dari Rp. 275.700.000."
           >
-            <img src="/newyaris.webp" alt="Slide 1" />
+            <nuxt-img src="/newyaris.webp" alt="Slide 1" />
           </div>
 
           <div class="counter" count="2">/ 2</div>
@@ -42,7 +42,7 @@
  harga mulai dari Rp. 151.400.000
 ."
           >
-            <img src="/Calya.webp" alt="Slide 3" />
+            <nuxt-img src="/Calya.webp" alt="Slide 3" />
           </div>
           <input type="checkbox" class="faux-ui-facia" />
           <div
@@ -52,7 +52,7 @@
  harga mulai dari Rp. 345.800.000
 ."
           >
-            <img src="/newinnova.webp" alt="Slide 3" />
+            <nuxt-img src="/newinnova.webp" alt="Slide 3" />
           </div>
 
           <input type="checkbox" class="faux-ui-facia" />
@@ -61,7 +61,7 @@
             slide="2"
             annot="NEW VELLFIRE harga mulai dari Rp. 1.256.300.000."
           >
-            <img src="/newvellfire.webp" alt="Slide 2" />
+            <nuxt-img src="/newvellfire.webp" alt="Slide 2" />
           </div>
 
           <input type="checkbox" class="faux-ui-facia" />
@@ -70,7 +70,7 @@
             slide="1"
             annot="NEW ALPHARD harga mulai dari Rp. 1.070.900.000."
           >
-            <img src="/newalphard.webp" alt="Slide 1" />
+            <nuxt-img src="/newalphard.webp" alt="Slide 1" />
           </div>
 
           <div class="counter" count="5">/ 4</div>
@@ -88,7 +88,7 @@
             slide="5"
             annot="FORTUNER harga mulai dari Rp. 493.900.000."
           >
-            <img src="/FORTUNER.webp" alt="Slide 5" />
+            <nuxt-img src="/FORTUNER.webp" alt="Slide 5" />
           </div>
 
           <input type="checkbox" class="faux-ui-facia" />
@@ -97,7 +97,7 @@
             slide="4"
             annot="ALL NEW RUSH harga mulai dari Rp. 268.400.000."
           >
-            <img src="/ALLNEWRUSH.webp" alt="Slide 4" />
+            <nuxt-img src="/ALLNEWRUSH.webp" alt="Slide 4" />
           </div>
 
           <input type="checkbox" class="faux-ui-facia" />
@@ -106,7 +106,7 @@
             slide="3"
             annot="COROLLA CROSS harga mulai dari Rp. 470.300.000."
           >
-            <img src="/COROLLACROSS.webp" alt="Slide 3" />
+            <nuxt-img src="/COROLLACROSS.webp" alt="Slide 3" />
           </div>
 
           <input type="checkbox" class="faux-ui-facia" />
@@ -115,7 +115,7 @@
             slide="2"
             annot="ALL NEW C-HR harga mulai dari Rp. 530.200.000"
           >
-            <img src="/ALLNEWC-HR.webp" alt="Slide 2" />
+            <nuxt-img src="/ALLNEWC-HR.webp" alt="Slide 2" />
           </div>
 
           <input type="checkbox" class="faux-ui-facia" />
@@ -125,7 +125,7 @@
             slide="1"
             annot="All New Raize harga mulai dari Rp. 220.900.000."
           >
-            <img src="/AllNewRaize.webp" alt="Slide 1" />
+            <nuxt-img src="/AllNewRaize.webp" alt="Slide 1" />
           </div>
 
           <div class="counter" count="5">/ 5</div>
@@ -143,7 +143,7 @@
             slide="3"
             annot="NEW CAMRY harga mulai dari Rp. 656.700.000."
           >
-            <img src="/NEWCAMRY.webp" alt="Slide 3" />
+            <nuxt-img src="/NEWCAMRY.webp" alt="Slide 3" />
           </div>
 
           <input type="checkbox" class="faux-ui-facia" />
@@ -152,7 +152,7 @@
             slide="2"
             annot="COROLLA ALTIS harga mulai dari Rp. 506.350.000"
           >
-            <img src="/COROLLAALTIS.webp" alt="Slide 2" />
+            <nuxt-img src="/COROLLAALTIS.webp" alt="Slide 2" />
           </div>
 
           <input type="checkbox" class="faux-ui-facia" />
@@ -161,7 +161,7 @@
             slide="1"
             annot="NEW VIOS harga mulai dari Rp. 263.100.000"
           >
-            <img src="/NEWVIOS.webp" alt="Slide 1" />
+            <nuxt-img src="/NEWVIOS.webp" alt="Slide 1" />
           </div>
 
           <div class="counter" count="3">/ 3</div>
@@ -179,7 +179,7 @@
             slide="1"
             annot="NEW TOYOTA 86 harga mulai dari Rp. 806.100.000."
           >
-            <img src="/NEWTOYOTA86.webp" alt="Slide 5" />
+            <nuxt-img src="/NEWTOYOTA86.webp" alt="Slide 5" />
           </div>
 
           <div class="counter" count="1">/ 1</div>
@@ -197,7 +197,7 @@
             slide="4"
             annot="ALL NEW HIACE PREMIO harga mulai dari Rp. 538.050.000."
           >
-            <img src="/ALLNEWHIACEPREMIO.webp" alt="Slide 4" />
+            <nuxt-img src="/ALLNEWHIACEPREMIO.webp" alt="Slide 4" />
           </div>
 
           <input type="checkbox" class="faux-ui-facia" />
@@ -206,7 +206,7 @@
             slide="3"
             annot="NEW HILUX D CAB V TYPE harga mulai dari Rp. 454.400.000."
           >
-            <img src="/NEWHILUXDCABVTYPE.webp" alt="Slide 3" />
+            <nuxt-img src="/NEWHILUXDCABVTYPE.webp" alt="Slide 3" />
           </div>
 
           <input type="checkbox" class="faux-ui-facia" />
@@ -215,7 +215,7 @@
             slide="2"
             annot="DYNA harga mulai dari Rp. 317.900.000."
           >
-            <img src="/DYNA.webp" alt="Slide 2" />
+            <nuxt-img src="/DYNA.webp" alt="Slide 2" />
           </div>
 
           <input type="checkbox" class="faux-ui-facia" />
@@ -224,7 +224,7 @@
             slide="1"
             annot="ALL NEW HILUX harga mulai dari Rp. 258.400.000."
           >
-            <img src="/ALLNEWHILUX.webp" alt="Slide 1" />
+            <nuxt-img src="/ALLNEWHILUX.webp" alt="Slide 1" />
           </div>
 
           <div class="counter" count="4">/ 4</div>
