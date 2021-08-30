@@ -66,8 +66,8 @@
                   src="/toyota-yogya.webp"
                   alt="student"
                   class=""
-                  height="128 px"
-                  width="190 px"
+                  height="100"
+                  width="100"
                 />
               </nuxt-link>
             </li>
