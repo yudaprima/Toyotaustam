@@ -10,7 +10,7 @@
             <li>
               <a
                 class="text-gray-200 hover:text-gray-700 pt-5 block pb-2 text-sm space-y-4"
-                href="http://google.com/maps/dir/-7.6762044,109.652039/dealer+toyota+jogja+janti/@-7.8142056,109.4828604,9z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x2e7a5746a848f60d:0xbbb3d4fe962a232!2m2!1d110.4089297!2d-7.8097609"
+                href="https://www.google.com/maps/place/Toyota+Yogya+Nasmoco+Janti/@-7.8097556,110.406741,17z/data=!4m12!1m6!3m5!1s0x2e7a5746a848f60d:0xbbb3d4fe962a232!2sToyota+Yogya+Nasmoco+Janti!8m2!3d-7.8097609!4d110.4089297!3m4!1s0x2e7a5746a848f60d:0xbbb3d4fe962a232!8m2!3d-7.8097609!4d110.4089297"
                 target="_blank"
                 rel="noopener noreferrer"
               >
