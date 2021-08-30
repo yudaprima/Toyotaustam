@@ -14,7 +14,7 @@
               Please don't hesitate to contact us for another task
             </h1>
             <a
-              href="https://api.whatsapp.com/send?phone=+*628122687656*&text=%20*Saya cukup tertarik dengan mobil..."
+              href="https://api.whatsapp.com/send?phone=+*6287739005888*&text=%20*Saya cukup tertarik dengan mobil..."
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -26,11 +26,7 @@
             </a>
           </div>
           <div class="lg:w-2/5 py-5">
-            <img
-              src="/sallesman.webp"
-              alt="student"
-              class="rounded-full h-auto "
-            />
+            <img src="/sales.webp" alt="student" class="rounded-full h-auto " />
           </div>
         </div>
       </div>

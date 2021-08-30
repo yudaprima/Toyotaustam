@@ -14,7 +14,7 @@
         </p>
 
         <a
-          href="https://api.whatsapp.com/send?phone=+*628122687656*&text=%20*Saya ingin menanyakan tentang mobil..."
+          href="https://api.whatsapp.com/send?phone=+*6287739005888*&text=%20*Saya ingin menanyakan tentang mobil..."
           target="_blank"
           rel="noopener noreferrer"
         >

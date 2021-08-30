@@ -10,7 +10,7 @@
             <li>
               <a
                 class="text-gray-200 hover:text-gray-700 pt-5 block pb-2 text-sm space-y-4"
-                href="https://www.google.com/maps/dir/-7.6761963,109.6520275/roofel/@-7.6744008,109.6476027,17z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x2e7aca0eebd41b1d:0x4bedf78f716b1ec6!2m2!1d109.6479158!2d-7.6727015"
+                href="http://google.com/maps/dir/-7.6762044,109.652039/dealer+toyota+jogja+janti/@-7.8142056,109.4828604,9z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x2e7a5746a848f60d:0xbbb3d4fe962a232!2m2!1d110.4089297!2d-7.8097609"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -18,13 +18,13 @@
               </a>
             </li>
             <li class="mt-0 text-gray-200">
-              PT YYY
+              Nasmoco Janti
               <br />
-              Authorized Toyota Dealer<br />
-              <!-- Alamat : Jl Ring Road Timur 58A Banguntapan Bantul, Yogyakarta
-              55198<br /> -->
-              Jalan kaliurang Sleman Yogyakarta Km 14 <br />
-              <!-- Fax. : 0274-452-040 -->
+
+              Alamat : Jl Ring Road Timur 58A Banguntapan Bantul, Yogyakarta
+              55198<br />
+
+              Fax. : 0274-452-040
             </li>
           </ul>
         </div>
