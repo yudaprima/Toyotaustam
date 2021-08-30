@@ -6,19 +6,6 @@
       <!-- Component Start -->
       <div class="w-full max-w-screen-sm">
         <button
-          class="w-full border-b-2 border-gray-400 pb-6 text-left group focus:outline-none"
-        >
-          <div class="text-lg font-semibold">
-            Q: Apakah kami harus ke kantor untuk menyewa mobil?
-          </div>
-          <div class="mt-3 hidden group-focus:flex">
-            <p>
-              Tidak Perlu, anda cukup menghubunggi team kami, dan kami akan urus
-              semuanya untuk anda
-            </p>
-          </div>
-        </button>
-        <button
           class="w-full border-b-2 border-gray-400 pb-6 text-left group mt-6 focus:outline-none"
         >
           <div class="text-lg font-semibold">
@@ -26,8 +13,8 @@
           </div>
           <div class="mt-3 hidden group-focus:flex">
             <p>
-              Tentu saja, kami memiliki cukup Armada, sehingga anda bisa menyewa
-              Mobil kami selama anda di Jambi
+              Tidak harus, kami selalu senang bisa mempermudah calon pembeli
+              mobil toyota, silahkan hubungi kami untuk proses selanjutnya
             </p>
           </div>
         </button>
@@ -39,8 +26,9 @@
           </div>
           <div class="mt-3 hidden group-focus:flex">
             <p>
-              Kami menyediakan harga khusus, silahkan hubungi team kami untuk
-              mendiskusikan lebih lanjut
+              Bisa sekali, jika anda sudah memiliki mobil toyota lama dan ingin
+              mengganti dengan mobil toyota jenis terbaru, jangan sungkan untuk
+              menghubungi nomer kami
             </p>
           </div>
         </button>
@@ -52,9 +40,9 @@
           </div>
           <div class="mt-3 hidden group-focus:flex">
             <p>
-              Sangat bisa, Kami bisa membantu untuk membuatkan aplikasi baik itu
-              native App atau Modern Web App lengkap dengan database serta
-              backend sesuai kebutuhan bisnis anda
+              Dealer Mobil toyota selalu memiliki bermacam promo untuk pembelian
+              mobil toyota ditempat kami, silahkan menghubungi nomer kontak kami
+              untuk mendapatkan update promo terbaru
             </p>
           </div>
         </button>
@@ -66,9 +54,8 @@
           </div>
           <div class="mt-3 hidden group-focus:flex">
             <p>
-              Sangat bisa, Kami bisa membantu untuk membuatkan aplikasi baik itu
-              native App atau Modern Web App lengkap dengan database serta
-              backend sesuai kebutuhan bisnis anda
+              Sangat mudah, silahkan menghubungi nomer kami untuk lebih
+              detailnya terkait pembelian kredit mobil toyota di dealer kami
             </p>
           </div>
         </button>

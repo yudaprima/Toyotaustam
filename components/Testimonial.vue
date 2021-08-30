@@ -15,8 +15,8 @@
           <span class="font-bold text-red text-lg">
             “
           </span>
-          To get social media testimonials like these, keep your customers
-          engaged with your social media accounts by posting regularly yourself
+          Pelayanan luar biasa dan sangat sabar dalam menjawab banyak pertanyaan
+          saya
           <span class="font-bold text-red text-lg">
             ”
           </span>
@@ -33,10 +33,6 @@
             <span class="font-semibold text-red text-sm">
               Yhunei
             </span>
-            <span class="text-red dark:text-gray-400 text-xs flex items-center">
-              Ceo Baju naya
-              <!-- <nuxt-img src="/icons/rocket.svg" class="ml-2 h-4 w-4" /> -->
-            </span>
           </div>
         </div>
       </div>
@@ -47,8 +43,8 @@
           <span class="font-bold text-red text-lg">
             “
           </span>
-          To get social media testimonials like these, keep your customers
-          engaged with your social media accounts by posting regularly yourself
+          Sangat detail dalam menjelaskan produk, dan memberikan banyak
+          alternatif, saya sangat terbantu
           <span class="font-bold text-red text-lg">
             ”
           </span>
@@ -65,10 +61,6 @@
             <span class="font-semibold text-red text-sm">
               Agus Hermanto
             </span>
-            <span class="text-red dark:text-gray-400 text-xs flex items-center">
-              Web development
-              <!-- <nuxt-img src="/icons/rocket.svg" class="ml-2 h-4 w-4" /> -->
-            </span>
           </div>
         </div>
       </div>
@@ -79,8 +71,8 @@
           <span class="font-bold text-red text-lg">
             “
           </span>
-          To get social media testimonials like these, keep your customers
-          engaged with your social media accounts by posting regularly yourself
+          Ramah dan responsif, khususnya layanan after sales nya, recomended dan
+          angat bisa dipercaya
           <span class="font-bold text-red text-lg">
             ”
           </span>
@@ -96,10 +88,6 @@
           <div class="flex flex-col ml-2 justify-between">
             <span class="font-semibold text-red text-sm">
               Dony saputra
-            </span>
-            <span class="text-red dark:text-gray-400 text-xs flex items-center">
-              Marketing
-              <!-- <nuxt-img src="/icons/rocket.svg" class="ml-2 h-4 w-4" /> -->
             </span>
           </div>
         </div>
