@@ -134,7 +134,7 @@
           </div>
         </div>
         <a
-          href="https://www.google.com/maps/dir/-7.6762044,109.652039/pusat+penjualan+toyota+jogja/@-7.8142056,109.4698272,9z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x2e7a59f72dd446d5:0xe1521901b407c7fc!2m2!1d110.4090148!2d-7.8098156"
+          href="https://g.page/pusat-penjualan-toyota-jogja?share"
           target="_blank"
           rel="noopener noreferrer"
         >
