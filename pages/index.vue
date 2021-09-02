@@ -14,7 +14,7 @@
 export default {
   data() {
     return {
-      title: "Dealer Toyota & harga mobil toyota jogja"
+      title: "Dealer Toyota & harga mobil toyota jogja",
     };
   },
   head() {
@@ -25,11 +25,11 @@ export default {
           hid: "description",
           name: "description",
           content:
-            "Dealer Toyota Jogja. Info lengkap dan terbaru tentang harga mobil toyota baru maupun bekas di jogja semarang solo dan sekitarnya. hubungi kami sales resmi toyota."
-        }
-      ]
+            "Dealer Toyota Jogja. Info lengkap dan terbaru tentang harga mobil toyota baru maupun bekas di jogja semarang solo dan sekitarnya. hubungi kami sales resmi toyota.",
+        },
+      ],
     };
-  }
+  },
 };
 </script>
 

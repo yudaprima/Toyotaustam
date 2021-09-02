@@ -2,17 +2,17 @@
   <div>
     <nav class="w-full bg-white dark:bg-gray-900">
       <div
-        class="flex items-center flex-wrap border-1 bg-gray-900 border-gray-100  "
+        class="flex items-center flex-wrap border-1 bg-gray-900 border-gray-100"
       >
         <!-- <a
           href="#"
-          class="px-2 py-2 py-2 rounded text-white text-sm ml-5  hover:bg-red "
+          class="px-2 py-2 rounded text-white text-sm ml-5  hover:bg-red "
         >
           facebook
           <Facebook />
         </a> -->
         <!-- <a
-          class="px-2 py-2 py-2 rounded text-white text-sm ml-5  hover:bg-red "
+          class="px-2 py-2 rounded text-white text-sm ml-5  hover:bg-red "
           href="#"
           >instagram
           <Instagram />
@@ -20,29 +20,48 @@
 
         <a
           href="#"
-          class="px-2 py-2 py-2 rounded-lg text-red text-sm hover:bg-gray-800 ml-auto"
+          class="
+            px-2
+            py-2
+            rounded-lg
+            text-red text-sm
+            hover:bg-gray-800
+            ml-auto
+          "
           >_
           <span @click="toggle">
             <Darkmode />
           </span>
         </a>
       </div>
-      <div class="container flex flex-wrap lg:flex-no-wrap items-center ">
+      <div class="container flex flex-wrap lg:flex-no-wrap items-center">
         <a
           href="#"
-          class="lg:hidden ml-auto flex flex-col relative justify-center w-8 h-8 mt-3 mb-3"
+          class="
+            lg:hidden
+            ml-auto
+            flex flex-col
+            relative
+            justify-center
+            w-8
+            h-8
+            mt-3
+            mb-3
+          "
           @click.prevent="mobileNavOpen = !mobileNavOpen"
         >
           <span
             class="bg-red h-1 w-8 rounded mb-1"
             :class="{
-              'transition-all duration-200 transform rotate-45 absolute right-0': mobileNavOpen
+              'transition-all duration-200 transform rotate-45 absolute right-0':
+                mobileNavOpen,
             }"
           ></span>
           <span
             class="bg-red h-1 w-8 rounded mb-1"
             :class="{
-              'transition-all duration-200 transform -rotate-45 absolute right-0': mobileNavOpen
+              'transition-all duration-200 transform -rotate-45 absolute right-0':
+                mobileNavOpen,
             }"
           ></span>
           <span
@@ -55,12 +74,19 @@
           :class="{ 'mt-8': mobileNavOpen, 'hidden lg:flex': !mobileNavOpen }"
         >
           <ul
-            class="lg:inline-flex lg:flex-row  lg:w-auto w-full lg:items-center items-start  flex flex-col lg:h-auto"
+            class="
+              lg:inline-flex lg:flex-row lg:w-auto
+              w-full
+              lg:items-center
+              items-start
+              flex flex-col
+              lg:h-auto
+            "
           >
             <li class="mb-2">
               <nuxt-link
                 :to="{ name: 'index' }"
-                class="inline-flex items-center p-2 mr-4 "
+                class="inline-flex items-center p-2 mr-4"
               >
                 <nuxt-img
                   src="/toyota-yogya.webp"
@@ -71,10 +97,23 @@
                 />
               </nuxt-link>
             </li>
-            <li class="mb-2 ">
+            <li class="mb-2">
               <nuxt-link
                 :to="{ name: 'index' }"
-                class="lg:inline-flex lg:w-auto w-full rounded text-moodyblues dark:text-gray-300 lg:mr-9 font-bold items-center justify-center hover:bg-red hover:text-white px-2 py-2 "
+                class="
+                  lg:inline-flex lg:w-auto
+                  w-full
+                  rounded
+                  text-moodyblues
+                  dark:text-gray-300
+                  lg:mr-9
+                  font-bold
+                  items-center
+                  justify-center
+                  hover:bg-red hover:text-white
+                  px-2
+                  py-2
+                "
               >
                 Home
               </nuxt-link>
@@ -82,7 +121,20 @@
             <li class="mb-2">
               <nuxt-link
                 :to="{ name: 'product' }"
-                class="lg:inline-flex lg:w-auto w-full rounded text-moodyblues dark:text-gray-300 lg:mr-9 font-bold items-center justify-center hover:bg-red hover:text-white px-2 py-2 "
+                class="
+                  lg:inline-flex lg:w-auto
+                  w-full
+                  rounded
+                  text-moodyblues
+                  dark:text-gray-300
+                  lg:mr-9
+                  font-bold
+                  items-center
+                  justify-center
+                  hover:bg-red hover:text-white
+                  px-2
+                  py-2
+                "
               >
                 Vehicles
               </nuxt-link>
@@ -90,7 +142,20 @@
             <li class="mb-2">
               <nuxt-link
                 :to="{ name: 'AboutUs' }"
-                class="lg:inline-flex lg:w-auto w-full rounded text-moodyblues dark:text-gray-300 lg:mr-9 font-bold items-center justify-center hover:bg-red hover:text-white px-2 py-2 "
+                class="
+                  lg:inline-flex lg:w-auto
+                  w-full
+                  rounded
+                  text-moodyblues
+                  dark:text-gray-300
+                  lg:mr-9
+                  font-bold
+                  items-center
+                  justify-center
+                  hover:bg-red hover:text-white
+                  px-2
+                  py-2
+                "
               >
                 AboutUs
               </nuxt-link>
@@ -98,7 +163,20 @@
             <li class="mb-2">
               <nuxt-link
                 :to="{ name: 'index' }"
-                class="lg:inline-flex lg:w-auto w-full rounded text-moodyblues dark:text-gray-300 lg:mr-9 font-bold items-center justify-center hover:bg-red hover:text-white px-2 py-2 "
+                class="
+                  lg:inline-flex lg:w-auto
+                  w-full
+                  rounded
+                  text-moodyblues
+                  dark:text-gray-300
+                  lg:mr-9
+                  font-bold
+                  items-center
+                  justify-center
+                  hover:bg-red hover:text-white
+                  px-2
+                  py-2
+                "
               >
                 Blog
               </nuxt-link>
@@ -114,14 +192,14 @@
 export default {
   data() {
     return {
-      mobileNavOpen: false
+      mobileNavOpen: false,
     };
   },
   methods: {
     toggle() {
       this.$colorMode.preference =
         this.$colorMode.value == "light" ? "dark" : "light";
-    }
-  }
+    },
+  },
 };
 </script>

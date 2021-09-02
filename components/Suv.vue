@@ -1,10 +1,10 @@
 <template>
   <div class="container mx-auto">
-    <div class="flex flex-wrap justify-between grid lg:grid-cols-2 ">
-      <div class="rounded-lg ">
+    <div class="flex flex-wrap justify-between grid lg:grid-cols-2">
+      <div class="rounded-lg">
         <div class="text-3xl leading-tight font-bold lg:mt-16 lg:mb-9">
           TOYOTA
-          <span class="text-red pr-1 pl-1 ">HATCHBACK</span>
+          <span class="text-red pr-1 pl-1">HATCHBACK</span>
         </div>
         <div class="carousel">
           <input type="checkbox" class="faux-ui-facia" />
@@ -28,10 +28,10 @@
           <div class="counter" count="2">/ 2</div>
         </div>
       </div>
-      <div class="rounded-lg ">
+      <div class="rounded-lg">
         <div class="text-3xl leading-tight font-bold lg:mt-16 lg:mb-9">
           TOYOTA
-          <span class="text-red pr-1 pl-1 ">MPV</span>
+          <span class="text-red pr-1 pl-1">MPV</span>
         </div>
         <div class="carousel">
           <input type="checkbox" class="faux-ui-facia" />
@@ -76,10 +76,10 @@
           <div class="counter" count="5">/ 4</div>
         </div>
       </div>
-      <div class="rounded-lg ">
+      <div class="rounded-lg">
         <div class="text-3xl leading-tight font-bold lg:mt-16 lg:mb-9">
           TOYOTA
-          <span class="text-red pr-1 pl-1 ">SUV</span>
+          <span class="text-red pr-1 pl-1">SUV</span>
         </div>
         <div class="carousel">
           <input type="checkbox" class="faux-ui-facia" />
@@ -131,10 +131,10 @@
           <div class="counter" count="5">/ 5</div>
         </div>
       </div>
-      <div class="rounded-lg ">
+      <div class="rounded-lg">
         <div class="text-3xl leading-tight font-bold lg:mt-16 lg:mb-9">
           TOYOTA
-          <span class="text-red pr-1 pl-1 ">SEDAN</span>
+          <span class="text-red pr-1 pl-1">SEDAN</span>
         </div>
         <div class="carousel">
           <input type="checkbox" class="faux-ui-facia" />
@@ -167,10 +167,10 @@
           <div class="counter" count="3">/ 3</div>
         </div>
       </div>
-      <div class="rounded-lg ">
+      <div class="rounded-lg">
         <div class="text-3xl leading-tight font-bold lg:mt-16 lg:mb-9">
           TOYOTA
-          <span class="text-red pr-1 pl-1 ">SPORT</span>
+          <span class="text-red pr-1 pl-1">SPORT</span>
         </div>
         <div class="carousel">
           <input type="checkbox" class="faux-ui-facia" />
@@ -185,10 +185,10 @@
           <div class="counter" count="1">/ 1</div>
         </div>
       </div>
-      <div class="rounded-lg ">
+      <div class="rounded-lg">
         <div class="text-3xl leading-tight font-bold lg:mt-16 lg:mb-9">
           TOYOTA
-          <span class="text-red pr-1 pl-1 ">COMMERCIAL</span>
+          <span class="text-red pr-1 pl-1">COMMERCIAL</span>
         </div>
         <div class="carousel">
           <input type="checkbox" class="faux-ui-facia" />
