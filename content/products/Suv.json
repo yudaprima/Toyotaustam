@@ -13,13 +13,14 @@
     "MaxTorque": "Rp. 493.900.000",
     "image": "/FORTUNER.webp",
     "sale": "",
-    "price": "2.4 G M/T 4x2 Diesel : 494.900.000",
-    "price2": "2.4 G A/T 4x2 Diesel : 512.300.000",
-    "price3": "2.4 VRZ 4x2 Diesel : 541.800.000",
-    "price4": "2.4 VRZ GR 4x2 Diesel : 556.100.000",
-    "price5": "2.4 G A/T 4x4 Diesel : 617.100.000",
-    "price6": "2.4 VRZ A/T 4x4 : 692.500.000",
-    "price7": "2.7 SRZ GR 4x2 Bensin : 615.900.000"
+    "price": "2.4G 4x2 MT : 511.600.000",
+    "price2": "2.4G 4x2 AT : 529.800.000",
+    "price3": "2.4 VRZ 4x2 AT : 560.100.000",
+    "price4": "2.4 VRZ GR 4x2 AT : 574.400.000",
+    "price5": "2.4 VRZ GR 4x2 AT Spec Up : 576.100.000",
+    "price6": "2.4G 4x4 AT : 635.600.000",
+    "price7": "2.4 VRZ 4x4 AT : 713.100.000",
+    "price8": "Fortuner bensin 2.7 SRZ GR 4x2 AT : 615.900.000"
   },
   {
     "title": "ALL NEW RUSH",
@@ -36,10 +37,12 @@
     "MaxTorque": "14.3 / 4,200",
     "image": "/ALLNEWRUSH.webp",
     "sale": "",
-    "price": "1.5 G M/T : 250.300.000",
-    "price2": "1.5 G A/T : 265.000.000",
-    "price3": "1.5 GR M/T : 265.000.000",
-    "price4": "1.5 GR A/T : 274.700.000"
+    "price": "1.5 G MT : 269.200.000",
+    "price2": "1.5 G AT : 279.400.000",
+    "price3": "1.5 GR MT : 279.200.000",
+    "price4": "1.5 GR AT : 289.400.000",
+    "price5": "1.5 GR MT Spec Up : 281.400.000",
+    "price6": "1.5 GR AT Spec Up : 291.600.000"
   },
   {
     "title": "COROLLA CROSS",
@@ -54,12 +57,10 @@
     "Displacement": "1,496",
     "MaxPower": "107 / 6,000",
     "MaxTorque": "14.3 / 4,200",
-    "price": "Rp. 470.300.000",
     "image": "/COROLLACROSS.webp",
     "sale": "",
-    "price2": "Rp. 538.050.000",
-    "price3": "Rp. 538.050.000",
-    "price4": "Rp. 538.050.000"
+    "price": "1.8 AT : 470.300.000",
+    "price2": "1.8 Hybrid AT : 528.200.000"
   },
   {
     "title": "ALL NEW C-HR",
@@ -116,15 +117,15 @@
     "MaxTorque": "14.3 / 4,200",
     "image": "/AllNewRaize.webp",
     "sale": "",
-    "price": "1.2 G M/T : 203.700.000",
-    "price2": "1.2 G A/T : 216.800.000",
-    "price3": "1.0T G M/T (OTC) : 220.900.000",
-    "price4": "1.0T G M/T (TTC) : 223.200.000",
-    "price5": "1.0T G CVT (OTC) : 234.000.000",
-    "price6": "1.0T G CVT (TTC) : 236.300.000",
-    "price7": "1.0T GR CVT (OTC) : 245.500.000",
-    "price8": "1.0T GR CVT (TTC) : 247.800.000",
-    "price9": "1.0T GR TSS CVT (OTC) : 264.500.000",
-    "price10": "1.0T GR TSS CVT (TTC) : 266.700.000"
+    "price": "1.2G MT (OTC) : 215.400.000",
+    "price2": "1.2G CVT (OTC) : 229.300.000",
+    "price3": "1.0T G MT (OTC) : 233.600.000",
+    "price4": "1.0T G MT (TTC) : 236.100.000",
+    "price5": "1.0T G CVT (OTC) : 247.500.000",
+    "price6": "1.0T G CVT (TTC) : 250.000.000",
+    "price7": "1.0T GR CVT (OTC) : 259.400.000",
+    "price8": "1.0T GR CVT (TTC) : 261.900.000",
+    "price9": "1.0T GR TSS CVT (OTC) : 279.600.000",
+    "price10": "1.0T GR TSS CVT (TTC) : 282.000.000"
   }
 ]

@@ -13,9 +13,9 @@
     "MaxTorque": "14.3 / 4,200",
     "image": "/NEWCAMRY.webp",
     "sale": "",
-    "price": "2.5G A/T : 656.700.000",
-    "price2": "2.5V A/T : 690.200.000",
-    "price3": "2.5HV A/T : 895.500.000"
+    "price": "2.5G AT : 656.700.000",
+    "price2": "2.5V AT : 690.200.000",
+    "price3": "2.5HV AT : 895.500.000"
   },
   {
     "title": "COROLLA ALTIS",
@@ -32,8 +32,8 @@
     "MaxTorque": "14.3 / 4,200",
     "image": "/COROLLAALTIS.webp",
     "sale": "",
-    "price": "1.8G A/T : 506.350.000",
-    "price2": "1.8V A/T : 528.850.000",
+    "price": "1.8G AT : 506.350.000",
+    "price2": "1.8V AT : 528.850.000",
     "price3": "1.8L Hybrid : 606.150.000"
   },
   {
@@ -69,8 +69,8 @@
     "MaxTorque": "14.3 / 4,200",
     "image": "/NEWVIOS.webp",
     "sale": "",
-    "price": "1.5E M/T : 263.100.000",
-    "price2": "1.5G M/T : 279.600.000",
-    "price3": "1.5G A/T  : 292.500.000"
+    "price": "1.5E MT : 308.500.000",
+    "price2": "1.5G MT : 326.700.000",
+    "price3": "1.5G AT  : 342.200.000"
   }
 ]

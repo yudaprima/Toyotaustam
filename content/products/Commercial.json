@@ -11,13 +11,13 @@
     "Displacement": "1,496",
     "MaxPower": "107 / 6,000",
     "MaxTorque": "14.3 / 4,200",
-    "price": "Commuter MT : 538.050.000",
     "image": "/ALLNEWHIACEPREMIO.webp",
     "sale": "",
+    "price": "Commuter MT : 538.050.000",
     "price2": "Premio 2.8 MT : 564.950.000"
   },
   {
-    "title": "NEW HILUX D CAB V TYPE",
+    "title": "NEW HILUX Bensin",
     "Dimensi": "4,145 X 1,730 X 1,500 X 2,500",
     "Transmission": "5-Speed Manual    ",
     "BrakeSystem": "ABS + EBD + BA    ",
@@ -29,7 +29,7 @@
     "Displacement": "1,496",
     "MaxPower": "107 / 6,000",
     "MaxTorque": "14.3 / 4,200",
-    "price": "2.4 G A/T Rp. 538.050.000",
+    "price": "S-Cab 2.0 MT : 258.400.000",
     "image": "/NEWHILUXDCABVTYPE.webp",
     "sale": ""
   },
@@ -51,10 +51,10 @@
     "sale": ""
   },
   {
-    "title": "ALL NEW HILUX",
+    "title": "ALL NEW HILUX Diesel",
     "Dimensi": "4,145 X 1,730 X 1,500 X 2,500",
-    "Transmission": "5-Speed Manual    ",
-    "BrakeSystem": "ABS + EBD + BA    ",
+    "Transmission": "5-Speed Manual",
+    "BrakeSystem": "ABS + EBD + BA  ",
     "FrontBrake": "14 Ventilated Disc",
     "RearBrake": "Drum",
     "FrontSuspension": "Macpherson Strut",
@@ -63,13 +63,12 @@
     "Displacement": "1,496",
     "MaxPower": "107 / 6,000",
     "MaxTorque": "14.3 / 4,200",
-    "price": "S-Cab 2.0 MT : 258.400.000 Bensin",
     "image": "/ALLNEWHILUX.webp",
     "sale": "",
-    "price2": "S-Cab 2.4 MT 4x2 : 274.300.000 Diesel",
-    "price3": "S-Cab 2.4 MT 4x4 : 365.000.000 Diesel ",
-    "price4": "D-Cab 2.4E MT : 454.400.000 Diesel",
-    "price5": "D-Cab 2.4G MT : 475.300.000 Diesel",
-    "price6": "D-Cab 2.4V AT : 514.600.000 Diesel"
+    "price": "S-Cab 2.4 MT 4x2 : 274.300.000",
+    "price2": "S-Cab 2.4 MT 4x4 : 365.000.000",
+    "price3": "D-Cab 2.4E MT : 454.400.000",
+    "price4": "D-Cab 2.4G MT : 475.300.000",
+    "price5": "D-Cab 2.4V AT : 514.600.000"
   }
 ]
