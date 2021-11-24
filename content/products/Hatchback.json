@@ -17,7 +17,7 @@
     "price2": "1.2G MT : 154.500.000",
     "price3": "1.2G AT : 168.300.000",
     "price4": "1.2G GR MT : 159.500.000",
-    "price5": "1.2G GR AT :  175.600.000"
+    "price5": "1.2G GR AT : 175.600.000"
   },
   {
     "title": "NEW YARIS",
@@ -34,15 +34,15 @@
     "MaxTorque": "14.3 / 4,200",
     "image": "/newyaris.webp",
     "sale": "",
-    "price": "1.5G MT 3 airbag : 271.000.000",
-    "price7": "1.5G AT 3 airbag : 282.200.000",
-    "price2": "1.5G MT 7 airbag : 275.900.000",
-    "price3": "1.5G AT 7 airbag : 287.100.000",
-    "price4": "1.5 GR SPORT MT 3 airbag : 294.200.000",
-    "price5": "1.5 GR SPORT AT 3 airbag : 306.200.000",
-    "price6": "1.5 GR SPORT AT 3 airbag Spec Up : 307.600.000",
-    "price8": "1.5 GR SPORT MT 7 airbag : 299.100.000",
-    "price9": "1.5 GR SPORT AT 7 airbag : 311.000.000",
-    "price10": "1.5 GR SPORT AT 7 airbag Spec Up : 312.400.000    "
+    "price": "1.5G MT 3 airbag : 256.800.000",
+    "price2": "1.5G AT 3 airbag : 267.300.000",
+    "price3": "1.5G MT 7 airbag : 261.400.000",
+    "price4": "1.5G AT 7 airbag : 271.900.000",
+    "price5": "1.5 GR MT 3 airbag : 279.300.000",
+    "price6": "1.5 GR AT 3 airbag : 290.600.000",
+    "price7": "1.5 GR AT 3 airbag spec up : 292.000.000",
+    "price8": "1.5 GR MT 7 airbag : 283.900.000",
+    "price9": "1.5 GR AT 7 airbag : 295.100.000",
+    "price10": "1.5 GR AT 7 airbag spec up : 296.500.000"
   }
 ]
