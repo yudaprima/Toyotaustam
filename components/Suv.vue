@@ -7,7 +7,7 @@
           <span class="text-red pr-1 pl-1">HATCHBACK</span>
         </div>
         <div class="carousel">
-          <input type="checkbox" class="faux-ui-facia" />
+          <input id="promo" type="checkbox" class="faux-ui-facia" />
           <div
             class="slide"
             slide="2"
@@ -16,7 +16,7 @@
             <nuxt-img src="/agya.webp" alt="Slide 2" />
           </div>
 
-          <input type="checkbox" class="faux-ui-facia" />
+          <input id="promo" type="checkbox" class="faux-ui-facia" />
           <div
             class="slide"
             slide="1"
@@ -34,7 +34,7 @@
           <span class="text-red pr-1 pl-1">MPV</span>
         </div>
         <div class="carousel">
-          <input type="checkbox" class="faux-ui-facia" />
+          <input id="promo" type="checkbox" class="faux-ui-facia" />
           <div
             class="slide"
             slide="4"
@@ -44,7 +44,7 @@
           >
             <nuxt-img src="/Calya.webp" alt="Slide 3" />
           </div>
-          <input type="checkbox" class="faux-ui-facia" />
+          <input id="promo" type="checkbox" class="faux-ui-facia" />
           <div
             class="slide"
             slide="3"
@@ -55,7 +55,7 @@
             <nuxt-img src="/newinnova.webp" alt="Slide 3" />
           </div>
 
-          <input type="checkbox" class="faux-ui-facia" />
+          <input id="promo" type="checkbox" class="faux-ui-facia" />
           <div
             class="slide"
             slide="2"
@@ -64,7 +64,7 @@
             <nuxt-img src="/newvellfire.webp" alt="Slide 2" />
           </div>
 
-          <input type="checkbox" class="faux-ui-facia" />
+          <input id="promo" type="checkbox" class="faux-ui-facia" />
           <div
             class="slide"
             slide="1"
@@ -82,7 +82,7 @@
           <span class="text-red pr-1 pl-1">SUV</span>
         </div>
         <div class="carousel">
-          <input type="checkbox" class="faux-ui-facia" />
+          <input id="promo" type="checkbox" class="faux-ui-facia" />
           <div
             class="slide"
             slide="5"
@@ -91,7 +91,7 @@
             <nuxt-img src="/FORTUNER.webp" alt="Slide 5" />
           </div>
 
-          <input type="checkbox" class="faux-ui-facia" />
+          <input id="promo" type="checkbox" class="faux-ui-facia" />
           <div
             class="slide"
             slide="4"
@@ -100,7 +100,7 @@
             <nuxt-img src="/ALLNEWRUSH.webp" alt="Slide 4" />
           </div>
 
-          <input type="checkbox" class="faux-ui-facia" />
+          <input id="promo" type="checkbox" class="faux-ui-facia" />
           <div
             class="slide"
             slide="3"
@@ -109,7 +109,7 @@
             <nuxt-img src="/COROLLACROSS.webp" alt="Slide 3" />
           </div>
 
-          <input type="checkbox" class="faux-ui-facia" />
+          <input id="promo" type="checkbox" class="faux-ui-facia" />
           <div
             class="slide"
             slide="2"
@@ -118,7 +118,7 @@
             <nuxt-img src="/ALLNEWC-HR.webp" alt="Slide 2" />
           </div>
 
-          <input type="checkbox" class="faux-ui-facia" />
+          <input id="promo" type="checkbox" class="faux-ui-facia" />
 
           <div
             class="slide"
@@ -137,7 +137,7 @@
           <span class="text-red pr-1 pl-1">SEDAN</span>
         </div>
         <div class="carousel">
-          <input type="checkbox" class="faux-ui-facia" />
+          <input id="promo" type="checkbox" class="faux-ui-facia" />
           <div
             class="slide"
             slide="3"
@@ -146,7 +146,7 @@
             <nuxt-img src="/NEWCAMRY.webp" alt="Slide 3" />
           </div>
 
-          <input type="checkbox" class="faux-ui-facia" />
+          <input id="promo" type="checkbox" class="faux-ui-facia" />
           <div
             class="slide"
             slide="2"
@@ -155,7 +155,7 @@
             <nuxt-img src="/COROLLAALTIS.webp" alt="Slide 2" />
           </div>
 
-          <input type="checkbox" class="faux-ui-facia" />
+          <input id="promo" type="checkbox" class="faux-ui-facia" />
           <div
             class="slide"
             slide="1"
@@ -173,7 +173,7 @@
           <span class="text-red pr-1 pl-1">SPORT</span>
         </div>
         <div class="carousel">
-          <input type="checkbox" class="faux-ui-facia" />
+          <input id="promo" type="checkbox" class="faux-ui-facia" />
           <div
             class="slide"
             slide="1"
@@ -191,7 +191,7 @@
           <span class="text-red pr-1 pl-1">COMMERCIAL</span>
         </div>
         <div class="carousel">
-          <input type="checkbox" class="faux-ui-facia" />
+          <input id="promo" type="checkbox" class="faux-ui-facia" />
           <div
             class="slide"
             slide="4"
@@ -200,7 +200,7 @@
             <nuxt-img src="/ALLNEWHIACEPREMIO.webp" alt="Slide 4" />
           </div>
 
-          <input type="checkbox" class="faux-ui-facia" />
+          <input id="promo" type="checkbox" class="faux-ui-facia" />
           <div
             class="slide"
             slide="3"
@@ -209,7 +209,7 @@
             <nuxt-img src="/NEWHILUXDCABVTYPE.webp" alt="Slide 3" />
           </div>
 
-          <input type="checkbox" class="faux-ui-facia" />
+          <input id="promo" type="checkbox" class="faux-ui-facia" />
           <div
             class="slide"
             slide="2"
@@ -218,7 +218,7 @@
             <nuxt-img src="/DYNA.webp" alt="Slide 2" />
           </div>
 
-          <input type="checkbox" class="faux-ui-facia" />
+          <input id="promo" type="checkbox" class="faux-ui-facia" />
           <div
             class="slide"
             slide="1"
